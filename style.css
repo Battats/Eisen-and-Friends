@@ -1,6 +1,6 @@
-body{
-    direction: rtl;
+body {
+	direction: rtl;
 }
-.img-thumbnail{
-    width: 18rem;
+nav {
+	direction: ltr;
 }
